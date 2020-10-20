@@ -77,7 +77,6 @@
 }
 @media all and (max-width:545px){
     .header-right ul li a{
-        max-width: 100%;
         font-size: 18px;
         padding: 0 10px;
     }
